@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "forceConsistentCasingInFileNames": true,
+    "module": "CommonJS",
+    "outDir": "dist",
+    "strict": true
+  },
+  "include": ["./src"],
+  "ts-node": {
+    "transpileOnly": true
+  }
+}
